@@ -1,17 +1,18 @@
 {
-	"name": "@yodasws/webtoolkit",
-	"version": "0.2.2-alpha",
-	"description": "Sam Grundman's Super Awesome Gulp Web Development Toolkit",
+	"name": "@CUSC/works",
+	"private": true,
+	"version": "1.0.0",
+	"description": "Website detailing our ideas, suggestions, works, and programs to improve Charlotte and North Carolina.",
 	"main": "gulpfile.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/YodasWs/webtoolkit.git"
+		"url": "git+https://github.com/Charlotte-Urbanist-Social-Club/works.git"
 	},
 	"author": "Samuel B Grundman (https://github.com/YodasWs/)",
 	"bugs": {
-		"url": "https://github.com/YodasWs/webtoolkit/issues"
+		"url": "https://github.com/Charlotte-Urbanist-Social-Club/works/issues"
 	},
-	"homepage": "https://github.com/YodasWs/webtoolkit#readme",
+	"homepage": "https://github.com/Charlotte-Urbanist-Social-Club/works#readme",
 	"devDependencies": {
 		"@babel/core": "^7.20.2",
 		"@babel/preset-env": "^7.20.2",
